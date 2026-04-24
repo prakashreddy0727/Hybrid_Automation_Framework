@@ -10,6 +10,7 @@ Feature: Login Funtionality Testing
 		Then close the browser
 		Then Action completed
 		The finally done
+		then finally done
 
 	Scenario Outline: Testing login with different data
 		Given Browser has launched
